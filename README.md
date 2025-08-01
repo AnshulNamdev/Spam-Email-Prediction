@@ -9,7 +9,7 @@ This project uses *Machine Learning* and *Natural Language Processing (NLP)* to 
 
 ## 📌 Project Highlights
 
-✅ Load and clean real-world SMS data  
+✅ Load and clean real-world EMAIL data  
 🧹 Handle missing values to ensure clean input  
 🔠 Extract features using *TF-IDF*  
 🧠 Train and test a machine learning classifier  
